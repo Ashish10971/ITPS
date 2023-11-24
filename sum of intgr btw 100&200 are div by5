@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//sum of intgr btw 100 &200 are div by 5
 int main() {
     int sum = 0;
 
