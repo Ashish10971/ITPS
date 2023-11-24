@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <math.h>
-
+//nth root of number
 int main() {
     double base, result;
     int n;
