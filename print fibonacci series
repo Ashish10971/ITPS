@@ -1,6 +1,4 @@
 #include <stdio.h>
-
-
 void fibonacciSeries(int n, int a, int b) {
     if (n > 0) {
         int sum = a + b;
